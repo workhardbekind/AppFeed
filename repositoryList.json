@@ -4919,5 +4919,15 @@
         "profile": "https://forums.unraid.net/profile/67871-zyphermonkey/",
         "title": "zyphermonkey's Repository",
         "index": 651
+    },
+    {
+        "url": "https://github.com/workhardbekind/AppFeed",
+        "profile": "https://forums.unraid.net/profile/287006-districtdave/",
+        "bio": "I love learning through building. Thanks for giving me an outlet, and lets create together.",
+        "icon": "https://raw.githubusercontent.com/pickles4evaaaa/mybibliotheca/main/icon.png",
+        "DonateLink": "https://ko-fi.com/workhardbekind",
+        "DonateText": "Donations are always appreciated!",
+        "title": "workhardbekind's repo",
+        "index": 0
     }
 ]
